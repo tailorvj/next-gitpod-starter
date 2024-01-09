@@ -1,4 +1,4 @@
-# Based on Next Gitpod Starter for Next.js 14 by Tailor VJ
+# Next Gitpod Starter for Next.js 14 by Tailor VJ
 
 This is based on a template configured for ephemeral cloud development environments on [Gitpod](https://www.gitpod.io/).
 
