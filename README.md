@@ -2,10 +2,6 @@
 
 This is based on a template configured for ephemeral cloud development environments on [Gitpod](https://www.gitpod.io/).
 
-Cloned from [](https://github.com/tailorvj/next-gitpod-starter)
-
-I'm reading Next.js 14 Mastery : Beginners to Advanced [Kindle Edition] by: Ezeigbo Emmanuel
-
 ## Next Steps
 
 Click the button below to start a new development environment:
