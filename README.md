@@ -1,22 +1,22 @@
-# Next Gitpod Starter for Next.js 14 by Tailor VJ
+# Based on Next Gitpod Starter for Next.js 14 by Tailor VJ
 
-This is a [Learn Next.js](https://nextjs.org/learn) template configured for ephemeral cloud development environments on [Gitpod](https://www.gitpod.io/).
+This is based on a template configured for ephemeral cloud development environments on [Gitpod](https://www.gitpod.io/).
+
+Cloned from [](https://github.com/tailorvj/next-gitpod-starter)
+
+I'm reading Next.js 14 Mastery : Beginners to Advanced [Kindle Edition] by: Ezeigbo Emmanuel
 
 ## Next Steps
 
 Click the button below to start a new development environment:
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/tailorvj/next-gitpod-starter)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/tailorvj/nextjs-14-book)
 
-## Get Started With Your Own Project
+Click the above "Open in Gitpod" button to start the workspace on Gitpod, develop and push changes from there. 
 
-### A new project
+### Utilizes .gitpod.yml
 
-Click the above "Open in Gitpod" button to start a new workspace. Once you're ready to push your first code changes, Gitpod will guide you to fork this project so you own it.
-
-### An existing project
-
-To get started with Next.js on Gitpod, add a [`.gitpod.yml`](./.gitpod.yml) file which contains the configuration to improve the developer experience on Gitpod. To learn more, please see the [Getting Started](https://www.gitpod.io/docs/getting-started) documentation.
+The [`.gitpod.yml`](./.gitpod.yml) file contains the configuration to improve the developer experience on Gitpod. To learn more, please see the [Getting Started](https://www.gitpod.io/docs/getting-started) documentation.
 
 ## Created with npx create-next-app@latest
 
